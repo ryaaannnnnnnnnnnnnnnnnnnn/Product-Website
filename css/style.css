@@ -5,8 +5,24 @@
 
 /**************************** Site Structure *****************************/
 
-html {
-	font-size: 100%;
+#menu {
+    background-color: orange; /* Change the background color to orange */
+}
+
+#menu li a {
+    color: #FFF; /* Change the text color to white */
+}
+
+#menu ol li a {
+    color: #333; /* Change sub-menu text color */
+}
+
+#menu {
+    background-color: orange; /* Change the background color to blue */
+}
+
+.bg-primary {
+	background-color: blue;
 }
 
 @font-face {
