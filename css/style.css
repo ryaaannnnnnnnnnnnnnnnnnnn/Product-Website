@@ -17,6 +17,18 @@
     color: #333; /* Change sub-menu text color */
 }
 
+#menu {
+    background-color: blue; /* Change the background color to blue */
+}
+
+#menu li a {
+    color: #FFF; /* Change the text color to white */
+}
+
+#menu ol li a {
+    color: #333; /* Change sub-menu text color */
+}
+
 
 html {
 	font-size: 100%;
