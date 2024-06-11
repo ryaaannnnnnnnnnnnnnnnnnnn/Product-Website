@@ -55,10 +55,15 @@ body {	font-family: Arial, Helvetica, sans-serif;
 	padding: 40px 20px 30px;
 	margin: 0 auto;
 	border-radius: 0;
-	background: #FFF;
+	background: #3570df;
 	position: relative;
 	text-transform: uppercase;
 	text-shadow: 1px 1px 1px rgba(0,0,0,0.8);
+	
+}
+
+.bg-primary {
+	background-color: blue;
 }
 
 #site_title {width: 125px; height: 51px; position:absolute; top: 28px; right: 50px}
